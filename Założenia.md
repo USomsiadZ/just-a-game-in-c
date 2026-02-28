@@ -1,7 +1,4 @@
-- Poprawne koordynaty xyz{}
-- gra kolorowa {}
 - Dach w domkach
-- skalowanie rozdzielczosci
 - gra wieloosobowa przez pipe/socket
 - Budowanie
 - Zapis mapy
@@ -11,6 +8,7 @@
 
 
 # TODO
+- Widok izometryczny
 - mapa w struct
 - zrobic tablce mapa_dane[][][]
 - wypełnianie powietrzem # map.c
@@ -19,3 +17,5 @@
 - zapisywanie map # 1.map
 - gracz na poziomie z = 1 #main
 - block są w przestrzeni z a nie na z=0
+
+
